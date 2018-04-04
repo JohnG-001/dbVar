@@ -130,8 +130,6 @@ Records in the aggregated_deletion_loss files contain the following tab-separate
 | chr | outer_most_start | outermost_stop | SV_count | variant_type | method | analysis | platform | study | SV |
 
 
-# Examples of records in "aggregated deletions and losses" files:
-
 ## Example record 1:
 
 chr | outer_most_start | outermost_stop | SV_count | variant_type | method | analysis | platform | study | SV 
