@@ -106,31 +106,35 @@ NR coordinates | GRCh37 nr files
 
 The "nr SVs" will be in six files on the FTP site:
 
-Available now:
+## Available now:
 
 del/all_nr_GRCh37_aggregated_deletion_loss.tsv
 del/all_nr_GRCh38_aggregated_deletion_loss.tsv
 
-Coming soon:
+## Coming soon:
+
+ins/all_nr_GRCh37_aggregated_insertions.tsv  
+ins/all_nr_GRCh38_aggregated_insertions.tsv  
+
+## Coming later:
 
 dup/all_nr_GRCh37_aggregated_duplication_gain.tsv  
-ins/all_nr_GRCh37_aggregated_insertions.tsv  
-
 dup/all_nr_GRCh38_aggregated_duplication_gain.tsv  
-ins/all_nr_GRCh38_aggregated_insertions.tsv  
 
 # Records in the aggregated_deletion_loss files 
 
 Records in the aggregated_deletion_loss files contain the following tab-separated fields.
 
-| chr | outer_most_start | outermost_stop | ssv_count | variant_type | method | analysis | platforms | studies | ssvs |
+| chr | outer_most_start | outermost_stop | SV_count | variant_type | method | analysis | platform | study | SV |
 
 
 # Examples of records in "aggregated deletions and losses" files:
 
-## Example 1:
+## Example record 1:
 
-1       10001   1535693 1       deletion;       Oligo_aCGH;     Probe_signal_intensity; NA;     Boone2013;      nssv1614481;
+chr | outer_most_start | outermost_stop | SV_count | variant_type | method | analysis | platform | study | SV 
+----|------------------|----------------|----------|--------------|--------|----------|----------|-------|---
+1 | 10001 | 1535693 | 1  | deletion;  | Oligo_aCGH;  | Probe_signal_intensity; | NA;  | Boone2013;  | nssv1614481;
 
 ### Explanation:
 
@@ -160,7 +164,7 @@ the variant's region in the NCBI Variation Viewer at:
 
 https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv933473/
 
-## Example 2:
+## Example record 2:
 
 1       72300544        72346418        7       copy_number_loss;deletion;      Oligo_aCGH;Sequencing;  Probe_signal_intensity;Read_depth;   Agilent 24M aCGH;Illumina IIx;  Park2010;Ju2010;        nssv1423530:nssv1425248:nssv1428032:nssv1428830:nssv1434173:nssv1439464:nssv1420391;
 
@@ -240,8 +244,8 @@ For questions or feedback please contact: John Garner, jg95r@nih.gov
 
 # Thank you!
 
-Thanks for your interest in human "non-redundant structural variations" (nr SVs) data files
-derived from dbVar.
+Thanks for your interest in the dbVar human "non-redundant structural variations" (nr SVs) 
+data files from NCBI.
 
 Please check back soon for updates.
 
