@@ -19,6 +19,8 @@ An overview of "Structural Variation" is found here:
 
   https://www.ncbi.nlm.nih.gov/dbvar/content/overview/#datamodel
 
+## Description of data files:
+
 Sets of "non-redundant structural variations" (nr SVs) derived from dbVar are 
 available via FTP as tab delimited files by assembly, GRCh37 & GRCh38, and by 
 type of variant.  
@@ -26,6 +28,8 @@ type of variant.
 Non-redundant refers to variant coordinates, i.e. chr, outermost start, and 
 outermost stop.  Please note: the non-redundant coordinates are based strictly 
 on exact overlap of coordinates, not on partial overlaps.  
+
+## Variant types
 
 Variant types are grouped into three "aggregation types".  
 
