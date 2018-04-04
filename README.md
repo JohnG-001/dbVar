@@ -5,7 +5,9 @@
 # Last updated: 
 04/04/18
 
-# Link to FTP site: ftp site: ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/
+# Link to FTP site: 
+
+ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/
 
 # Introduction
 
@@ -60,17 +62,20 @@ The variant types in each of the three "aggregation types" are:
 
 category | type	 	 | GRCh37 | GRCh38
 ---------|---------------|--------|-----------
-deletions | alu_deletion |  1700117 | 1683546
+deletions: | | | 
+ | alu_deletion |  1700117 | 1683546
  | copy_number_loss  |  2409362 | 2392904
  | deletion |   13091839 | 12903950
  | herv_deletion |   197 | 197
  | line1_deletion |  82103 |  81940
  | sva_deletion |  14254 | 14254
  | copy_number_variation |  1164548 | 1106074
-duplications | copy_number_gain	 | 1247923 | 1208729
+duplications: | | |
+ | copy_number_gain	 | 1247923 | 1208729
  | duplication |  1926155 | 1915335
  | tandem_duplication |  11478 |  11446
-insertions | alu_insertion |  19908 | 19764
+insertions: | | |  
+ | alu_insertion |  19908 | 19764
  | insertion |  1220439 | 1226610
  | line1_insertion |  3916 |  | 3901
  | mobile_element_insertion | 88610 | 88773
@@ -125,35 +130,35 @@ Records in the aggregated_deletion_loss files contain the following tab-separate
 
 ### Explanation:
 
-The non-redundant coordinates for this record in dbvar are chr1, with
+* The non-redundant coordinates for this record in dbvar are chr1, with
 an outermost start of 10001 and outermost stop of 1535693.
 
-The ssv_count of 1 indicates there is only one ssv with an exact match to the given placement, and does not include ssvs with a partial match.
+* The ssv_count of 1 indicates there is only one ssv with an exact match to the given placement, and does not include ssvs with a partial match.
 
-The variant_call_type is "deletion".
+* The variant_call_type is "deletion".
 
-The method of "Oligo_aCGH" and analysis of "Probe_signal_intensity" indicates
-how the one variant was evaluated.
+* The method of "Oligo_aCGH" and the analysis of "Probe_signal_intensity" 
+indicate how the one variant was evaluated.
 
-NA indicates the no platform was specified this one deletion variant.
+* NA indicates the no platform was specified this one deletion variant.
 
-Boone2013 is the study name as found in dbVar.
+* Boone2013 is the study name as found in dbVar.
 
-The dbVar variant_accession for the variaant is "nssv1614481".
+* The dbVar variant_accession is "nssv1614481".
 
-URLs using the study name or variant_accession can be created to access the data
+* URLs using the study name or variant_accession can be created to access the data
 in dbVar, e.g.:
 https://www.ncbi.nlm.nih.gov/dbvar/?term=Boone2013
 https://www.ncbi.nlm.nih.gov/dbvar/?term=nssv1614481
 
-From the latter page you may click on the "Variant Region ID" on the left to see
+* From the latter page you may click on the "Variant Region ID" on the left to see
 the variant's region in the NCBI Variation Viewer at:
 
 https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv933473/
 
 ## Example 2:
 
-A more complicated example deletiion NR record contains multiple variants with 
+* A more complicated example deletiion NR record contains multiple variants with 
 multiple types, methods, and analyses from multiple studies, using multiple
 platforms:
 
