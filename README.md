@@ -108,18 +108,20 @@ The "nr SVs" will be in six files on the FTP site:
 
 ## Available now:
 
-del/all_nr_GRCh37_aggregated_deletion_loss.tsv
-del/all_nr_GRCh38_aggregated_deletion_loss.tsv
+* del/all_nr_GRCh37_aggregated_deletion_loss.tsv
+* del/all_nr_GRCh38_aggregated_deletion_loss.tsv
+
+ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/del
 
 ## Coming soon:
 
-ins/all_nr_GRCh37_aggregated_insertions.tsv  
-ins/all_nr_GRCh38_aggregated_insertions.tsv  
+* ins/all_nr_GRCh37_aggregated_insertions.tsv  
+* ins/all_nr_GRCh38_aggregated_insertions.tsv  
 
-## Coming later:
+## Coming a bit later:
 
-dup/all_nr_GRCh37_aggregated_duplication_gain.tsv  
-dup/all_nr_GRCh38_aggregated_duplication_gain.tsv  
+* dup/all_nr_GRCh37_aggregated_duplication_gain.tsv  
+* dup/all_nr_GRCh38_aggregated_duplication_gain.tsv  
 
 # Records in the aggregated_deletion_loss files 
 
@@ -221,10 +223,10 @@ multiple platforms.
 Please see README files for del, dup and ins, under the current directory for 
 additional details.
 
-# Brief Outline of algorithm used to generate NR-SV.
+# Brief Outline of algorithm used to generate NR-SVs.
 
-The algorithm makes use of existing processes, so it isn't how it would have 
-been designed if done from the ground up.
+The algorithm makes use of existing processes, so it is not designed as if
+it had been done from the ground up.
 
 Input files are generated from the dbVar database with tab separated values and
 contain SVs by assembly, type, and other relevant fields.
@@ -239,7 +241,7 @@ The XML is then parsed to generate SV records with coordinates, type,
 method, analysis, platform, insertion_length, SV accession and study.  
 
 The SV records are then proccessed to genearte the nr records described above, 
-and in the README files for del, dup and ins.
+and in the README files for del, dup and ins contained on this GitHub site.
 
 # Questions or feedback
 
