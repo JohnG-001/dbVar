@@ -239,11 +239,12 @@ The XML is then parsed to generate SV records with coordinates, type,
 method, analysis, platform, insertion_length, SV accession and study.  
 
 The SV records are then proccessed to genearte the nr records described above, 
-and in the README files for del, dup and ins contained on this GitHub site.
+and in the README files for deletions, and soon in READMEs for insertions, and 
+duplications and gains, on this GitHub site.
 
 # Questions or feedback
 
-For questions or feedback please contact: John Garner, jg95r@nih.gov
+For questions or feedback please email John Garner at jg95r@nih.gov
 
 # Thank you!
 
