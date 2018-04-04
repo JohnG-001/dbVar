@@ -57,6 +57,7 @@ The variant types in each of the three "aggregation types" are:
 # Summary Statistics
 
 ## Number of input SV as of Mar 9, 2018:
+
 | category | type	 	| GRCh37 | GRCh38 |
 -------------------------------------------------------------------
 | deletions | alu_deletion |  1700117 | 1683546 |
@@ -76,7 +77,7 @@ The variant types in each of the three "aggregation types" are:
 |  | novel_sequence_insertion | 4067 | 4041 |
 |  | sva_insertion |  1097 |  1087 |
 
-Number of output NR Coordinates as of Mar 9, 2018:
+## Number of output NR Coordinates as of Mar 9, 2018:
 
 | nr coordinates | GRCh38 nr file |
 ---------------------------------------------------------------------
