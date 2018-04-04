@@ -66,7 +66,7 @@ The variant types in each of the three "aggregation types" are:
 
 variant type | GRCh37 | GRCh38
 -------------|--------|-------
-DELETIONS | |
+**DELETIONS** | |
 alu_deletion |  1700117 | 1683546
 copy_number_loss  |  2409362 | 2392904
 deletion |   13091839 | 12903950
@@ -74,11 +74,11 @@ herv_deletion |   197 | 197
 line1_deletion |  82103 |  81940
 sva_deletion |  14254 | 14254
 copy_number_variation |  1164548 | 1106074
-DUPLICATIONS and GAINS | |
+**DUPLICATIONS and GAINS** | |
 duplication |  1926155 | 1915335
 tandem_duplication |  11478 |  11446
 copy_number_gain	 | 1247923 | 1208729
-INSERTIONS | |
+**INSERTIONS** | |
 alu_insertion |  19908 | 19764
 insertion |  1220439 | 1226610
 line1_insertion |  3916 | 3901
@@ -86,16 +86,16 @@ mobile_element_insertion | 88610 | 88773
 novel_sequence_insertion | 4067 | 4041
 sva_insertion |  1097 |  1087
 
-## Number of output NR Coordinates by assembly as of Mar 9, 2018:
+## NR Coordinates by assembly as of Mar 9, 2018:
 
-nr coordinates | GRCh38 nr files
+NR coordinates | GRCh38 nr files
 -----------|----------------------------------------------
   2207235  | all_nr_GRCh38_aggregated_deletion_loss.tsv 
    326596  | all_nr_GRCh38_aggregated_duplication_gain.tsv
   1101221  | all_nr_GRCh38_aggregated_insertions.tsv
   3635052  | total
 
-nr coordinates | GRCh37 nr file
+NR coordinates | GRCh37 nr files
 -----------|----------------------------------------------
   2219439  | all_nr_GRCh37_aggregated_deletion_loss.tsv
    336634  | all_nr_GRCh37_aggregated_duplication_gain.tsv
