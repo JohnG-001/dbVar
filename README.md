@@ -1,11 +1,11 @@
-## dbVar human "non-redundant structural variations" (nr SVs) data files
+# dbVar human "non-redundant structural variations" (nr SVs) data files
 
 ## ****This work is subject to change due to work in progress****
 
-# Last updated: 
+## Last updated: 
 04/04/18
 
-# Link to FTP site: 
+## Link to FTP site: 
 
 ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/
 
