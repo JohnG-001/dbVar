@@ -66,7 +66,7 @@ The variant types in each of the three "aggregation types" are:
 
 variant type | GRCh37 | GRCh38
 ---------|---------------|--------|-----------
-__deletions__ | | | 
+DELETIONS | | | 
  | alu_deletion |  1700117 | 1683546
  | copy_number_loss  |  2409362 | 2392904
  | deletion |   13091839 | 12903950
@@ -74,11 +74,11 @@ __deletions__ | | |
  | line1_deletion |  82103 |  81940
  | sva_deletion |  14254 | 14254
  | copy_number_variation |  1164548 | 1106074
-__duplications and gains__ | | |
+DUPLICATIONS and GAINS | | |
  | duplication |  1926155 | 1915335
  | tandem_duplication |  11478 |  11446
  | copy_number_gain	 | 1247923 | 1208729
-__insertions__ | | |  
+INSERTIONS | | |  
  | alu_insertion |  19908 | 19764
  | insertion |  1220439 | 1226610
  | line1_insertion |  3916 | 3901
