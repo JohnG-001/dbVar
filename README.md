@@ -77,7 +77,7 @@ category | type	 	 | GRCh37 | GRCh38
 **insertions**: | | |  
  | alu_insertion |  19908 | 19764
  | insertion |  1220439 | 1226610
- | line1_insertion |  3916 |  | 3901
+ | line1_insertion |  3916 | 3901
  | mobile_element_insertion | 88610 | 88773
  | novel_sequence_insertion | 4067 | 4041
  | sva_insertion |  1097 |  1087
@@ -158,11 +158,13 @@ https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv933473/
 
 ## Example 2:
 
-* A more complicated example deletiion NR record contains multiple variants with 
-multiple types, methods, and analyses from multiple studies, using multiple
-platforms:
-
 1       72300544        72346418        7       copy_number_loss;deletion;      Oligo_aCGH;Sequencing;  Probe_signal_intensity;Read_depth;   Agilent 24M aCGH;Illumina IIx;  Park2010;Ju2010;        nssv1423530:nssv1425248:nssv1428032:nssv1428830:nssv1434173:nssv1439464:nssv1420391;
+
+### Explanation:
+
+* A more complicated example deletiion NR record containing multiple variants with 
+multiple types, methods, and analyses from multiple studies, using multiple
+platforms.
 
 # Mehods include eg:
 
