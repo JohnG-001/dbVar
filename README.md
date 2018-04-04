@@ -218,8 +218,8 @@ multiple platforms.
 
 # README files for del, dup and ins
 
-Please see README files for del, dup and ins, under the current directory for 
-additional details.
+Please see README files for deletions, insertions, and duplications and gains, 
+under the current GitHub directory for additional details.
 
 # Brief Outline of algorithm used to generate NR-SVs.
 
@@ -238,9 +238,7 @@ neccessary fields required by the nr process.
 The XML is then parsed to generate SV records with coordinates, type, 
 method, analysis, platform, insertion_length, SV accession and study.  
 
-The SV records are then proccessed to genearte the nr records described above, 
-and in the README files for deletions, and soon in READMEs for insertions, and 
-duplications and gains, on this GitHub site.
+The SV records are then proccessed to genearte the NR records described above. 
 
 # Questions or feedback
 
