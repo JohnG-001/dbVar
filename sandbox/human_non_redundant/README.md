@@ -124,7 +124,9 @@ ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/ins
 * dup/all_nr_GRCh37_aggregated_duplication_gain.tsv  
 * dup/all_nr_GRCh38_aggregated_duplication_gain.tsv  
 
-# Example NR Records: Records in the aggregated_deletion_loss files 
+# Example NR Records: 
+
+## Records in the aggregated_deletion_loss files 
 
 Records in the aggregated_deletion_loss files contain the following tab-separated fields.
 
