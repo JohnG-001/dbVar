@@ -3,7 +3,7 @@
 ## ****This work is subject to change due to work in progress****
 
 ## Last updated: 
-04/05/18
+04/06/18
 
 ## Link to FTP site: 
 
@@ -104,26 +104,27 @@ NR coordinates | GRCh37 nr files
 
 # Files
 
-The "nr SVs" will be in six files on the FTP site:
+The "nr SVs" will be in six ASCII text files with tab-separated values on the 
+FTP site.
 
-## Available now:
+## Files available now:
 
 * del/all_nr_GRCh37_aggregated_deletion_loss.tsv
 * del/all_nr_GRCh38_aggregated_deletion_loss.tsv
 
 ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/del
 
-## Coming soon:
-
 * ins/all_nr_GRCh37_aggregated_insertions.tsv  
 * ins/all_nr_GRCh38_aggregated_insertions.tsv  
 
-## Coming a bit later:
+ftp://ftp.ncbi.nlm.nih.gov/pub/dbVar/sandbox/human_non_redundant/ins
+
+## Files coming a bit later:
 
 * dup/all_nr_GRCh37_aggregated_duplication_gain.tsv  
 * dup/all_nr_GRCh38_aggregated_duplication_gain.tsv  
 
-# Records in the aggregated_deletion_loss files 
+# Example NR Records: Records in the aggregated_deletion_loss files 
 
 Records in the aggregated_deletion_loss files contain the following tab-separated fields.
 
