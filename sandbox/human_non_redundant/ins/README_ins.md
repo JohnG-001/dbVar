@@ -90,7 +90,7 @@ https://github.com/ncbi/dbvar/tree/master/sandbox/human_non_redundant
 # Questions or feedback
 
 * Please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
-* Please also consider creating an issue on this GitHub page.
+* Please create an issue on this GitHub page.
 
 # Thanks!
 
