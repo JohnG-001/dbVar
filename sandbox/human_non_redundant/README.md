@@ -247,10 +247,8 @@ The SV records are then proccessed to generate the NR records described above.
 
 # Questions or feedback
 
-For questions or feedback: 
-
 * Please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
-* Please also consider creating an issue on this GitHub page.
+* Please create an issue on this GitHub page.
 
 # Thanks!
 
