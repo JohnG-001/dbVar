@@ -64,7 +64,6 @@ https://www.ncbi.nlm.nih.gov/dbvar/?term=nssv1614481
 
 * From the latter page you may click on the "Variant Region ID" on the left to see
 the variant's region in the NCBI Variation Viewer at:
-
 https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv933473/
 
 ## Example record 2:
@@ -90,7 +89,7 @@ https://github.com/ncbi/dbvar/tree/master/sandbox/human_non_redundant
 * Please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
 * Please also consider creating an issue on this GitHub page.
 
-# Thank you!
+# Thanks!
 
 Thanks for your interest in the dbVar human "non-redundant structural variations" (nr SVs) 
 data files from NCBI.
