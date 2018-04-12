@@ -218,7 +218,7 @@ multiple platforms.
 * Split_read_mapping
 * de_novo_sequence_assembly
 
-# README files for deletion, duplications and gains, and insertions
+# README files for deletion, insertions, and duplications and gains
 
 Please see README files for deletions, insertions, and duplications and gains, 
 additional details.
