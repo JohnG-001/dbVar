@@ -92,9 +92,9 @@ https://github.com/ncbi/dbvar/tree/master/sandbox/human_non_redundant
 * Please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
 * Please also consider creating an issue on this GitHub page.
 
-# Thank you!
+# Thanks!
 
 Thanks for your interest in the dbVar human "non-redundant structural variations" (nr SVs) 
 data files from NCBI.
 
-Please check back soon for updates.
+Please check back for updates soon.
