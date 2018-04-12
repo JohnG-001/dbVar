@@ -38,7 +38,6 @@ Records in the aggregated_insertions files contain the following tab-separated f
 chr | outermost_start | outermost_stop | SV_count | variant_type | method | analysis | platform | min_insertion_length | max_insertion_length | study | SV 
 ----|-----------------|----------------|----------|--------------|--------|----------|----------|---|---|----|---
 1 | 370037 | 370038 | 1 | insertion | Sequencing | Local_sequence_assembly | NA | 94 | 94 | Fan2017 | nssv14027289
-2017 | nssv14027289 
 
 ### Explanation:
 
@@ -75,7 +74,7 @@ https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv3056167/
 
 chr | outermost_start | outermost_stop | variant_count | variant_type | method | analysis | platform | min_insertion_length | max_insertion_length | study | variant 
 ----|------------------|----------------|----------|--------------|--------|----------|----------|-------|--|--|---
-1	5874241	5874241	2	alu_insertion;insertion	Sequencing;Sequencing	Split_read_and_paired-end_mapping;de_novo_sequence_assembly	HiSeq 2000;Illumina HiSeq 2000	52	243	Gardner2017;Besenbacher2014	nssv14046119:essv16474703
+1 | 5874241 | 5874241 | 2 | alu_insertion;insertion | Sequencing;Sequencing | Split_read_and_paired-end_mapping;de_novo_sequence_assembly | HiSeq 2000;Illumina HiSeq 2000 | 52 | 243 | Gardner2017;Besenbacher2014 | nssv14046119:essv16474703
 
 ### Explanation:
 
