@@ -67,7 +67,6 @@ https://www.ncbi.nlm.nih.gov/dbvar/?term=nssv14027289
 
 * From the latter page you may click on the "Variant Region ID" on the left to see
 the variant's region in the NCBI Variation Viewer at:
-
 https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv3056167/
 
 ## Example record 2:
@@ -90,8 +89,8 @@ https://github.com/ncbi/dbvar/tree/master/sandbox/human_non_redundant
 
 # Questions or feedback
 
-For questions or feedback please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
-Please also consider creating an issue on this GitHub page.
+* Please email John Garner at dbvar-dev@ncbi.nlm.nih.gov
+* Please also consider creating an issue on this GitHub page.
 
 # Thank you!
 
