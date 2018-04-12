@@ -95,4 +95,4 @@ https://github.com/ncbi/dbvar/tree/master/sandbox/human_non_redundant
 Thanks for your interest in the dbVar human "non-redundant structural variations" (nr SVs) 
 data files from NCBI.
 
-Please check back soon for updates.
+Please check back for updates soon.
